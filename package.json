@@ -1,0 +1,14 @@
+{
+  "name": "talia",
+  "version": "1.0.0",
+  "description": "Minecraft Bot comme Talia ou encore Shandera",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Grimm",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.15.0"
+  }
+}
