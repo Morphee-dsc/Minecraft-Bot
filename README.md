@@ -10,8 +10,6 @@ Pour le message de bienvenue et du leave sa se passe dans <strong>l'index.js</st
 
 Pour 75 euro, vous avez le bot chez ZIROX, je vous le fait gratuitement pour vous aider a la place de payer pour un simple bot. (Pas fini les updates)
 
-<img src="https://i.imgur.com/u25yX7L.png">
-
 ## 🚧 Prérequis
 
   - [Node.js LTS](https://nodejs.org/en/download/)
